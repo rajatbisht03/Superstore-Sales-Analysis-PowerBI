@@ -1,74 +1,74 @@
-# 📊 Superstore Sales Analysis - Power BI
+# 📊 Superstore Sales Analysis using Power BI
 
-This project presents an interactive **Power BI Dashboard** created using the **Superstore dataset**, showcasing various insights from a fictional retail chain’s sales data across different regions, categories, and segments.
-
----
-
-## 📌 Objective
-
-To visualize and analyze sales performance across multiple dimensions using Power BI. The dashboard aims to answer business questions like:
-- Which region generates the most profit?
-- What is the sales trend over time?
-- Which product sub-categories are underperforming?
+This project provides a comprehensive analysis of sales performance using the popular **Superstore** dataset. The interactive Power BI dashboard uncovers key insights across time, product categories, regions, and customer segments, enabling data-driven decision-making.
 
 ---
 
 ## 📁 Dataset
 
 - **Source**: Sample Superstore dataset (Excel format)
-- **File**: `Superstore-Sales-Analysis-PowerBI` (Power BI file)
+- **Fields Covered**: Order Date, Region, Category, Sub-Category, Sales, Profit, Quantity, Segment, and more.
 
 ---
 
-## 📈 Key Visualizations
+## 🎯 Objective
 
-| Screenshot                          | Description                          |
-|-------------------------------------|--------------------------------------|
-| ![Superstore Sales Dashboard](screenshots/Superstore%20Sales%20Dashboard.png) | Full dashboard overview              |
-| ![Monthly Sales Trend](screenshots/monthly_sales_trend.png)         | Line chart showing monthly sales growth |
-| ![Sales by Category](screenshots/sales_by_category.png)             | Bar chart comparing sales by category |
-| ![Profit by Sub-Category](screenshots/profit_by_subcategory.png)    | Bar chart highlighting profitability by sub-category |
-| ![Sales & Profit by Region](screenshots/sales_profit_by_region.png)| Region-wise sales and profit analysis |
-| ![Segment Filter](screenshots/segment_filter.png)                   | Slicer to filter visuals by segment  |
+To build a visually compelling dashboard in **Power BI** that:
+- Highlights sales and profit trends
+- Identifies high-performing and underperforming product segments
+- Enables regional and category-level analysis
 
 ---
 
-## 📌 Tools Used
+## 📌 Key Visualizations
 
-- **Power BI Desktop**
-- **Excel** (for source dataset)
+### 1. **Superstore Sales Dashboard**
+> A consolidated view showing overall sales, profit, and trend insights.
 
----
+![Superstore Sales Dashboard](screenshots/Superstore%20Sales%20Dashboard.png)
 
-## 🧠 Insights Derived
+### 2. **Monthly Sales Trend**
+> Visualizes monthly performance to identify seasonality and growth patterns.
 
-- The **West** region generated the highest profit.
-- Certain sub-categories (e.g., Tables, Bookcases) are incurring losses.
-- Sales peaked in **November and December**, indicating a holiday season spike.
-- **Corporate segment** showed the most consistent performance across categories.
+![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
 
----
+### 3. **Sales by Category**
+> Compares total sales across major product categories.
 
-## 📂 Folder Structure
+![Sales by Category](screenshots/sales_by_category.png)
 
-Superstore-Sales-Analysis-PowerBI/
-│
-├── Superstore-Sales-Analysis-PowerBI (Power BI file)
-├── screenshots/
-│ ├── Superstore Sales Dashboard.png
-│ ├── monthly_sales_trend.png
-│ ├── sales_by_category.png
-│ ├── profit_by_subcategory.png
-│ ├── sales_profit_by_region.png
-└── README.md
+### 4. **Profit by Sub-Category**
+> Highlights profit contribution and loss areas among sub-categories.
 
+![Profit by Sub-Category](screenshots/profit_by_subcategory.png)
+
+### 5. **Sales and Profit by Region**
+> Analyzes geographical performance across U.S. regions.
+
+![Sales and Profit by Region](screenshots/sales_profit_by_region.png)
 
 ---
 
-## 💬 Author
+## 🛠️ Tools Used
+
+- **Power BI** for data visualization
+- **Microsoft Excel** for data source and preprocessing
+
+---
+
+## 📌 Outcomes
+
+- Delivered a clean, insightful dashboard for quick business decision-making.
+- Identified top-performing categories and regional opportunities.
+- Practiced end-to-end dashboard creation, from data cleaning to publishing.
+
+---
+
+## 👨‍💻 Author
 
 **Rajat Bisht**  
-🔗 [LinkedIn](https://www.linkedin.com/in/rajatbisht03)
+📧 [LinkedIn](https://www.linkedin.com/in/rajatbisht03)  
+🌐 [GitHub Portfolio](https://github.com/rajatbisht03)
 
 ---
 
